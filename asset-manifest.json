@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AppPathsala/static/css/main.993687c5.css",
+    "main.js": "/AppPathsala/static/js/main.b6907d29.js",
+    "static/js/787.79b86983.chunk.js": "/AppPathsala/static/js/787.79b86983.chunk.js",
+    "static/media/booked.png": "/AppPathsala/static/media/booked.616a96d9192e30c3335c.png",
+    "index.html": "/AppPathsala/index.html",
+    "main.993687c5.css.map": "/AppPathsala/static/css/main.993687c5.css.map",
+    "main.b6907d29.js.map": "/AppPathsala/static/js/main.b6907d29.js.map",
+    "787.79b86983.chunk.js.map": "/AppPathsala/static/js/787.79b86983.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.993687c5.css",
+    "static/js/main.b6907d29.js"
+  ]
+}
